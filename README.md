@@ -1,4 +1,4 @@
-# Yo, I'm Drago 🐉
+# Yo, I'm Drago 
 Lead Developer & Architect of **Beycord Revival**, the definitive Discord MMO economy bot. 
 
 Currently building custom Linux environments and scaling the WBBA global database.
