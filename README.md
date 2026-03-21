@@ -1,16 +1,13 @@
-## Hi there 👋
+# Yo, I'm Drago 🐉
+Lead Developer & Architect of **Beycord Revival**, the definitive Discord MMO economy bot. 
 
-<!--
-**DDD1292a/ddd1292a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently building custom Linux environments and scaling the WBBA global database.
 
-Here are some ideas to get you started:
+### 🌍 Live Projects
+**Beycord Revival** is currently operating in the global stadium. 
+*We gatekeep the code, but we display the stats. kekw.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Beycord Revival on Top.gg](https://top.gg/api/widget/1476248199772770345.svg)](https://top.gg/bot/1476248199772770345)
+
+### 💻 Tech Stack
+`Python` | `Supabase` | `PostgreSQL` | `React`
