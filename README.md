@@ -23,7 +23,23 @@ Live in the wild.
 
 - code? locked up tighter than a vault  
 - stats? yeah we flex those  
-- bugs? we don't talk about those  
+- bugs? we don't talk about those
+
+### Utility Bot (HomieBot)
+
+A self-bot that probably shouldn't exist, but does anyway.
+
+- runs half the GC like a shadow admin  
+- logs messages, snipes deletes, and reconstructs timelines like a fed  
+- has a whole **aura economy system** (yes, it's that deep)  
+- automates reminders, receipts, plans, and random chaos  
+- lowkey acts like a mainframe AI with attitude problems  
+
+basically:
+> if it can be automated, it *will* be automated  
+> if it shouldn't be automated… it still might be  
+
+status: **unhinged but operational**
 
 ---
 
