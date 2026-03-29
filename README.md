@@ -3,7 +3,7 @@
 I build stuff.  
 Sometimes it works. Sometimes it scales. Sometimes it well... breaks in production 🗣️🔥🔥
 
-Currently running **Beycord Revival** — a Discord MMO economy bot that's somehow still alive.
+Currently running **Beycord Revival**. A Discord MMO economy bot that's somehow still alive.
 
 [![Beycord Revival on Top.gg](https://top.gg/api/widget/1476248199772770345.svg)](https://top.gg/bot/1476248199772770345)
 
