@@ -1,13 +1,50 @@
-# Yo, I'm Drago 
-Lead Developer & Architect of **Beycord Revival**, the definitive Discord MMO economy bot. 
+# Yo, I'm Drago
 
-Currently building custom Linux environments and scaling the WBBA global database.
+I build stuff.  
+Sometimes it works. Sometimes it scales. Sometimes it well... breaks in production 🗣️🔥🔥
 
-### 🌍 Live Projects
-**Beycord Revival** is currently operating in the global stadium. 
-*We gatekeep the code, but we display the stats. kekw.*
+Currently running **Beycord Revival** — a Discord MMO economy bot that's somehow still alive.
 
 [![Beycord Revival on Top.gg](https://top.gg/api/widget/1476248199772770345.svg)](https://top.gg/bot/1476248199772770345)
 
-### 💻 Tech Stack
-`Python` | `Supabase` | `PostgreSQL` | `React`
+---
+
+## 🚧 What I'm doing rn
+- scaling things until they either survive or explode  
+- messing with backend systems  
+- pretending I understand what I'm doing  
+
+---
+
+## 🧠 Projects
+
+### Beycord Revival
+Live in the wild.  
+
+- code? locked up tighter than a vault  
+- stats? yeah we flex those  
+- bugs? we don't talk about those  
+
+---
+
+## ⚙️ Stack
+
+`Python` `Java` `Supabase` `PostgreSQL` `React`
+
+---
+
+## 🗿 Motto
+
+> "if it works, don't touch it  
+> if it breaks, act surprised"
+
+---
+
+## 📡 Extra
+
+If you found this profile, you either:
+- stalking  
+- curious  
+- or got lost  
+
+either way… welcome 💀
