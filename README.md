@@ -18,12 +18,17 @@ Currently running **Beycord Revival**. A Discord MMO economy bot that's somehow 
 
 ## 🧠 Projects
 
+---
+
 ### Beycord Revival
-Live in the wild.  
+
+Live in the wild.
 
 - code? locked up tighter than a vault  
 - stats? yeah we flex those  
-- bugs? we don't talk about those
+- bugs? we don't talk about those  
+
+---
 
 ### Utility Bot (HomieBot)
 
