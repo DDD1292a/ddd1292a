@@ -1,7 +1,8 @@
 # Yo, I'm Drago
 
-I build stuff.  
+I build stuff. 
 Sometimes it works. Sometimes it scales. Sometimes it well... breaks in production 🗣️🔥🔥
+Fuck it, using LM Studio to generate the about me, cus fuck no. I ain't writing allat. 
 
 Currently running **Beycord Revival**. A Discord MMO economy bot that's somehow still alive.
 
