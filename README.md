@@ -1,73 +1,78 @@
-# Yo, I'm Drago
+# Hey, I'm Drago
 
-I build stuff. 
-Sometimes it works. Sometimes it scales. Sometimes it well... breaks in production 🗣️🔥🔥
+I build things, break things, and occasionally figure out why they broke.
 
-Fuck it, using LM Studio to generate the about me, cus fuck no. I ain't writing allat. 
+Most of my time goes into backend development, automation, and whatever
+project I happen to be obsessing over at the time.
 
-Currently running **Beycord Revival**. A Discord MMO economy bot that's somehow still alive.
+Currently working on **Beycord Revival**, a Discord MMO/economy bot.
 
 [![Beycord Revival on Top.gg](https://top.gg/api/widget/1476248199772770345.svg)](https://top.gg/bot/1476248199772770345)
 
 ---
 
-## 🚧 What I'm doing rn
-- scaling things until they either survive or explode  
-- messing with backend systems  
-- pretending I understand what I'm doing  
-
----
-
-## 🧠 Projects
-
----
+## Projects
 
 ### Beycord Revival
 
-Live in the wild.
+A Discord MMO/economy bot with progression, PvE/PvP battles, inventories,
+collectibles, and a fairly unreasonable amount of backend logic.
 
-- code? locked up tighter than a vault  
-- stats? yeah we flex those  
-- bugs? we don't talk about those  
-
----
-
-### Utility Bot (HomieBot)
-
-A self-bot that probably shouldn't exist, but does anyway.
-
-- runs half the GC like a shadow admin  
-- logs messages, snipes deletes, and reconstructs timelines like a fed  
-- has a whole **aura economy system** (yes, it's that deep)  
-- automates reminders, receipts, plans, and random chaos  
-- lowkey acts like a mainframe AI with attitude problems  
-
-basically:
-> if it can be automated, it *will* be automated  
-> if it shouldn't be automated… it still might be  
-
-status: **unhinged but operational**
+The source is currently private, but the bot is live.
 
 ---
 
-## ⚙️ Stack
+### HomieBot
 
-`Python` `Java` `Supabase` `PostgreSQL` `React`
+A personal automation and utility project for Discord.
+
+It started as a collection of small utilities and gradually turned into
+something considerably larger.
+
+Some of the things it handles:
+
+- Message and event logging
+- Deleted-message tracking
+- Timeline reconstruction
+- Reminders and scheduled tasks
+- Receipt and plan tracking
+- A custom economy system
+- Various automations that are probably more complicated than they need to be
+
+The general philosophy is simple:
+
+> If something is repetitive, automate it.
 
 ---
 
-## 🗿 Motto
+## Stack
 
-> "if it works, don't touch it  
-> if it breaks, act surprised"
+`Python` `Java` `PostgreSQL` `Supabase` `React`
+
+I tend to pick whatever gets the job done rather than maintaining a
+religious attachment to a particular stack.
 
 ---
 
-## 📡 Extra
+## Currently
 
-If you found this profile, you either:
-- stalking  
-- curious  
-- or got lost  
+- Building and maintaining **Beycord Revival**
+- Working on backend systems and automation
+- Experimenting with new projects
+- Learning by breaking things and fixing them
 
-either way… welcome 💀
+---
+
+## Philosophy
+
+> Make it work.  
+> Make it better.  
+> Then try not to break it.
+
+---
+
+## Contact
+
+If you found this profile, you're probably here for a reason.
+
+Feel free to look around.
