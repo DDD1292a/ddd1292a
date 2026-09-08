@@ -61,13 +61,13 @@ religious attachment to a particular stack.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDD1292a&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
---
+---
 
 ## Activity
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DDD1292a&theme=github-compact&hide_border=true)](https://github.com/DDD1292a)
 
---
+---
 
 ## Currently
 
