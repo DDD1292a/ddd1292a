@@ -1,6 +1,6 @@
 # Hey, I'm Drago
 
-I build things, break things, and occasionally figure out why they broke.
+I build things and break things.
 
 Most of my time goes into backend development, automation, and whatever
 project I happen to be obsessing over at the time.
@@ -18,13 +18,13 @@ Currently working on **Beycord Revival**, a Discord MMO/economy bot.
 A Discord MMO/economy bot with progression, PvE/PvP battles, inventories,
 collectibles, and a fairly unreasonable amount of backend logic.
 
-The source is currently private, but the bot is live.
+If I ever give up on the bot, I'll probably make the code public, although I'm not sure how useful a codebase built in the age of vibe-coding would be.
 
 ---
 
 ### HomieBot
 
-A personal automation and utility project for Discord.
+A personal automation and utility project for Discord, for my friend group.
 
 It started as a collection of small utilities and gradually turned into
 something considerably larger.
@@ -41,7 +41,7 @@ Some of the things it handles:
 
 The general philosophy is simple:
 
-> If something is repetitive, automate it.
+> If something is simple and repetitive, automate it.
 
 ---
 
@@ -53,6 +53,21 @@ I tend to pick whatever gets the job done rather than maintaining a
 religious attachment to a particular stack.
 
 ---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DDD1292a&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDD1292a&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+--
+
+## Activity
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DDD1292a&theme=github-compact&hide_border=true)](https://github.com/DDD1292a)
+
+--
 
 ## Currently
 
@@ -68,6 +83,7 @@ religious attachment to a particular stack.
 > Make it work.  
 > Make it better.  
 > Then try not to break it.
+> If it breaks, blame the service it's running on.
 
 ---
 
