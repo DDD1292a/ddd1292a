@@ -54,21 +54,6 @@ religious attachment to a particular stack.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DDD1292a&show_icons=true&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDD1292a&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## Activity
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DDD1292a&theme=github-compact&hide_border=true)](https://github.com/DDD1292a)
-
----
-
 ## Currently
 
 - Building and maintaining **Beycord Revival**
